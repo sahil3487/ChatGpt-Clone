@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://yourimageurl.com" alt="ChatGPT-Clone Logo" width="200" height="200">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/ChatGPT-Logo.png/1200px-ChatGPT-Logo.png" alt="ChatGPT-Clone Logo" width="200" height="200">
 </p>
 <h1 align="center">ChatGPT-Clone</h1>
 <p align="center">
