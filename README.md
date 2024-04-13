@@ -44,7 +44,7 @@ Commit your changes (git commit -am 'Add some feature')
 Push to the branch (git push origin feature/your-feature)
 Create a new Pull Request
 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - Sahil singh.
 
 🙏 Acknowledgements
 OpenAI for their groundbreaking work on natural language processing.
